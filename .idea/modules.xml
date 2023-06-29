@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/EjemploAPIFuncional.iml" filepath="$PROJECT_DIR$/.idea/EjemploAPIFuncional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicio-docente/ejemplo.iml" filepath="$PROJECT_DIR$/ejercicio-docente/ejemplo.iml" />
+    </modules>
+  </component>
+</project>
